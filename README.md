@@ -1,6 +1,4 @@
-Here’s a polished **README.md** draft for your **Document\_analysis** repository, with a link to the relevant Kaggle dataset:
 
----
 
 
 # Document_analysis 📝
